@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/ivan/AndroidStudioProjects/homework3/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/ivan/AndroidStudioProjects/homework3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/ivan/AndroidStudioProjects/lesson7/Homework3/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/ivan/AndroidStudioProjects/lesson7/Homework3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/ivan/AndroidStudioProjects/lesson7/Homework3/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/ivan/AndroidStudioProjects/lesson7/Homework3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/ivan/AndroidStudioProjects/homework3/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/ivan/AndroidStudioProjects/homework3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

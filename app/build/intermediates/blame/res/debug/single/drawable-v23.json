@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/ivan/AndroidStudioProjects/lesson7/Homework3/app/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
+        "source": "/Users/ivan/AndroidStudioProjects/lesson7/Homework3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable-v23/abc_control_background_material.xml"
+    },
+    {
+        "merged": "/Users/ivan/AndroidStudioProjects/homework3/app/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
+        "source": "/Users/ivan/AndroidStudioProjects/homework3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable-v23/abc_control_background_material.xml"
+    }
+]
